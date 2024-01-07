@@ -1,0 +1,7 @@
+{
+  "name": "Zymono",
+  "version": "1.0.0",
+  "description": "Zymono Toggled integration",
+  "main": "index.js",
+  "type": "package"
+}
